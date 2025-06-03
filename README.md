@@ -10,7 +10,7 @@ The program demonstrates a sentiment analysis example using a text file for inpu
 python LLM_Sentiment.py
 
 # Contributors
-Guillermo Rodriguez - xyncsoftware@gmail.com
+Memo Rodriguez - memorodriguezca@icloud.com
 
 
 ## License
